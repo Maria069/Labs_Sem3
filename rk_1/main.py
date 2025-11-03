@@ -109,4 +109,5 @@ def main():
     print(*res_3, sep='\n')
 
 
-main()
+if __name__ == "__main__":
+    main()
