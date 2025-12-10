@@ -1,0 +1,14 @@
+[
+  {"job-name": "Программист C++", "company": "Яндекс", "salary": 150000},
+  {"job-name": "Программист Python", "company": "Google", "salary": 180000},
+  {"job-name": "Аналитик данных", "company": "Сбербанк", "salary": 120000},
+  {"job-name": "Программист Java", "company": "Яндекс", "salary": 160000},
+  {"job-name": "Менеджер проекта", "company": "VK", "salary": 140000},
+  {"job-name": "Программист JavaScript", "company": "Яндекс", "salary": 155000},
+  {"job-name": "Дизайнер интерфейсов", "company": "Тинькофф", "salary": 110000},
+  {"job-name": "DevOps инженер", "company": "Сбербанк", "salary": 170000},
+  {"job-name": "программист C#", "company": "МТС", "salary": 145000},
+  {"job-name": "Data Scientist", "company": "Яндекс", "salary": 190000},
+  {"job-name": "Программист Python", "company": "Тинькофф", "salary": 175000},
+  {"job-name": "Тестировщик", "company": "VK", "salary": 100000}
+]
