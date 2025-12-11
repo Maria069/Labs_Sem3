@@ -1,8 +1,3 @@
-"""
-Пакет lab_python_fp
-Лабораторная работа по функциональному программированию на Python
-"""
-
 from .field import field
 from .gen_random import gen_random
 from .unique import Unique

@@ -1,19 +1,11 @@
-# Задача 5: Декоратор print_result
-
 def print_result(func):
-    """
-    Декоратор для вывода результатов выполнения функции
-    
-    Args:
-        func: функция для декорирования
-    """
     def wrapper(*args, **kwargs):
         result = func(*args, **kwargs)
         
-        # Выводим имя функции
+        # имя функции
         print(func.__name__)
         
-        # Выводим результат в зависимости от типа
+        # в зависимости от типа
         if isinstance(result, list):
             for item in result:
                 print(item)
@@ -26,32 +18,3 @@ def print_result(func):
         return result
     
     return wrapper
-
-
-# Тестовые функции
-@print_result
-def test_1():
-    return 1
-
-
-@print_result
-def test_2():
-    return 'iu5'
-
-
-@print_result
-def test_3():
-    return {'a': 1, 'b': 2}
-
-
-@print_result
-def test_4():
-    return [1, 2]
-
-
-if __name__ == '__main__':
-    print('!!!!!!!!')
-    test_1()
-    test_2()
-    test_3()
-    test_4()
