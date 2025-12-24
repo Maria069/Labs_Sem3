@@ -1,0 +1,15 @@
+/Users/afeelu/Labs_Sem3/lab_5/bin/Debug/net10.0/lab_5
+/Users/afeelu/Labs_Sem3/lab_5/bin/Debug/net10.0/lab_5.deps.json
+/Users/afeelu/Labs_Sem3/lab_5/bin/Debug/net10.0/lab_5.runtimeconfig.json
+/Users/afeelu/Labs_Sem3/lab_5/bin/Debug/net10.0/lab_5.dll
+/Users/afeelu/Labs_Sem3/lab_5/bin/Debug/net10.0/lab_5.pdb
+/Users/afeelu/Labs_Sem3/lab_5/obj/Debug/net10.0/lab_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afeelu/Labs_Sem3/lab_5/obj/Debug/net10.0/lab_5.AssemblyInfoInputs.cache
+/Users/afeelu/Labs_Sem3/lab_5/obj/Debug/net10.0/lab_5.AssemblyInfo.cs
+/Users/afeelu/Labs_Sem3/lab_5/obj/Debug/net10.0/lab_5.csproj.CoreCompileInputs.cache
+/Users/afeelu/Labs_Sem3/lab_5/obj/Debug/net10.0/lab_5.sourcelink.json
+/Users/afeelu/Labs_Sem3/lab_5/obj/Debug/net10.0/lab_5.dll
+/Users/afeelu/Labs_Sem3/lab_5/obj/Debug/net10.0/refint/lab_5.dll
+/Users/afeelu/Labs_Sem3/lab_5/obj/Debug/net10.0/lab_5.pdb
+/Users/afeelu/Labs_Sem3/lab_5/obj/Debug/net10.0/lab_5.genruntimeconfig.cache
+/Users/afeelu/Labs_Sem3/lab_5/obj/Debug/net10.0/ref/lab_5.dll
